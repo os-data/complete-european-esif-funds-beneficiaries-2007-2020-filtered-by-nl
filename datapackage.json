@@ -300,7 +300,7 @@
       "hash": "43a19365b2b3878dd7ed658cc39f8540",
       "mediatype": "text/csv",
       "name": "nl-eu-esif-funds-beneficiaries-2007-2020-full",
-      "path": "https://storage.openspending.org/nl-eu-esif-funds-beneficiaries-2007-2020-full.csv",
+      "path": "https://storage.openspending.org/complete-european-esif-funds-beneficiaries-2007-2020-filtered-by-nl/nl-eu-esif-funds-beneficiaries-2007-2020-full.csv",
       "schema": {
         "fields": [
           {
